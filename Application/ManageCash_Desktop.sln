@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageCash_Desktop", "ManageCash_Desktop\ManageCash_Desktop.csproj", "{0A0B21A3-903B-4104-BACE-75987CDBF822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageCash_Desktop.Models", "ManageCash_Desktop.Models\ManageCash_Desktop.Models.csproj", "{71783BA9-9375-4B9A-9904-9DA81C938BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0B21A3-903B-4104-BACE-75987CDBF822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0B21A3-903B-4104-BACE-75987CDBF822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0B21A3-903B-4104-BACE-75987CDBF822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0B21A3-903B-4104-BACE-75987CDBF822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71783BA9-9375-4B9A-9904-9DA81C938BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71783BA9-9375-4B9A-9904-9DA81C938BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71783BA9-9375-4B9A-9904-9DA81C938BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71783BA9-9375-4B9A-9904-9DA81C938BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06594BE-F842-47C1-9185-6A388264A21F}
+	EndGlobalSection
+EndGlobal
